@@ -6,7 +6,7 @@
 |---|---|
 |telefono | 3244491765 |
 |T.I | 1044618722 |
-|correo | 
+|correo | juanlozano1208525@gmail.com | 
 
 ## estudios
 |colegio | ied de carrizal |

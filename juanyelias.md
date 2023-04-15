@@ -12,7 +12,6 @@
 |colegio | ied de carrizal |
 |---|---|
 |sena | tecnico en sistemas |
-|---|---|
 |certificado de emprendimiento |
 
 

@@ -13,20 +13,3 @@
 |---|---|
 |sena | tecnico en sistemas |
 |sena| comportamiento emprendedor  |
-
-
-
-# Elias Cardenas
-
-![foto](https://user-images.githubusercontent.com/126480893/221585146-46be7608-1c6a-4a8d-bcfa-103d13cd866b.jpg)
-
-|nombre | Elias Alejandro Cardenas Cala |
-|---|---|
-|telefono | 3006473554 |
-|T.I | 1048067411 |
-|correo | eliascala130@gmail.com |
-
-## Estudios 
-|colegio | IED Juan Jose Rondon |
-|---|---|
-|sena | Tecnico en sistemas |

@@ -12,4 +12,4 @@
 |colegio | ied de carrizal |
 |---|---|
 |sena | tecnico en sistemas |
-|sena| comportamiento emprendedor  |
+|sena| comportamiento emprendedor |
